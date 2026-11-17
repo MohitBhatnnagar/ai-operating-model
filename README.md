@@ -1,10 +1,10 @@
-# AI-Native Operating Model
+﻿# AI-Native Operating Model
 
 How to run a large, distributed delivery organisation in which **AI agents do the repeatable work and people handle judgement, exceptions and relationships**, without trading away quality or control.
 
 This repo is the model I use to think about that problem: the structure, the decision rights, the operating rhythm, the onboarding system, and the numbers that tell you it is working. It is written as an operating handbook, with diagrams, templates and a case study, and it links to the working code in the companion repos.
 
-> The examples are generalised and the data is synthetic. Nothing here is confidential employer information. Figures in the case study are the ones on my résumé.
+> The examples are generalised and the data is synthetic. Nothing here is confidential employer information. Figures in the case study are the ones on my rÃ©sumÃ©.
 
 ## The core idea
 
@@ -49,7 +49,7 @@ Technical building blocks for the agent layer: [`agentic-ai-patterns`](https://g
 
 ## About
 
-Mohit Bhatnagar: operations leader, 16+ years running service businesses, most recently Director, Operations Excellence and Delivery at an AI SaaS company, running a 300+ person distributed delivery organisation serving US clients. Lean Six Sigma Black Belt. LinkedIn: linkedin.com/in/mohitbhtgr
+Mohit Bhatnagar: operations leader, 16+ years running service businesses, most recently Director, Operations Excellence and Delivery at an AI SaaS company, running a 300+ person distributed delivery organisation serving US clients. Lean Six Sigma Black Belt. LinkedIn: https://www.linkedin.com/in/mohitbhatnagar-ai/
 
 ## License
 
